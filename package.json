@@ -1,0 +1,9 @@
+{
+  "name": "apas",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc && node build/index.js"
+  }
+}
