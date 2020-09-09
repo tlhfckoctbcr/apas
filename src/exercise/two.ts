@@ -23,6 +23,8 @@ export default {
       if (value > 9) {
         value = value - 10;
         remainder = 1;
+      } else {
+        remainder = 0;
       }
 
       output.push(value);
