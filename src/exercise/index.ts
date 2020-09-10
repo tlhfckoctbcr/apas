@@ -1,7 +1,8 @@
-import one from './one';
-import two from './two';
+import one from './1';
+import two from './2';
+import three from './3';
 
-const exercises = [one, two];
+const exercises = [one, two, three];
 
 export default {
   start() {
